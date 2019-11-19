@@ -1,3 +1,4 @@
 getting genral infomation of git
 Created a new repository
 Created a file
+added some more info
